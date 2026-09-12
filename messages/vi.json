@@ -1,0 +1,131 @@
+{
+  "Metadata": {
+    "homeTitle": "TOPIK Campus — Learn, Practice and Pass TOPIK",
+    "homeDescription": "Luyện đề, thi thử, phản hồi viết bằng AI và cộng đồng học tập toàn cầu cho kỳ thi TOPIK.",
+    "aboutTitle": "Giới thiệu",
+    "aboutDescription": "TOPIK Campus là cộng đồng học tập độc lập dành cho người chuẩn bị TOPIK I và TOPIK II.",
+    "topikTitle": "TOPIK I và II",
+    "topikDescription": "Hiểu khác biệt giữa TOPIK I và TOPIK II rồi chọn lộ trình phù hợp trình độ.",
+    "practiceTitle": "Luyện đề",
+    "practiceDescription": "Luyện nghe, đọc và viết theo dạng TOPIK. Ngân hàng câu hỏi sẽ mở sớm.",
+    "mockTitle": "Thi thử",
+    "mockDescription": "Đề thi thử TOPIK có tính giờ và chấm điểm. Tính năng sắp ra mắt.",
+    "writingTitle": "Phản hồi viết bằng AI",
+    "writingDescription": "Nộp bài viết TOPIK và nhận góp ý từ AI. Hiện chỉ xem trước quy trình.",
+    "progressTitle": "Tiến độ",
+    "progressDescription": "Theo dõi streak, cấp độ và bài đã hoàn thành. Tính năng đăng nhập sắp có.",
+    "communityTitle": "Cộng đồng",
+    "communityDescription": "Một cộng đồng chung cho câu hỏi, nhóm học và cảm nhận thi — hiện theo ngôn ngữ của bạn.",
+    "questionsTitle": "Câu hỏi",
+    "questionsDescription": "Hỏi và đáp về TOPIK cùng người học trên thế giới.",
+    "studyTitle": "Nhóm học",
+    "studyDescription": "Tìm hoặc tạo nhóm ôn TOPIK. Công cụ tuyển thành viên sắp mở.",
+    "reviewsTitle": "Cảm nhận thi",
+    "reviewsDescription": "Chia sẻ ngày thi của bạn và học từ người khác.",
+    "blogTitle": "Hướng dẫn",
+    "blogDescription": "Mẹo và hướng dẫn ôn TOPIK. Bài viết đầu tiên sắp có.",
+    "termsTitle": "Điều khoản",
+    "termsDescription": "Điều khoản sử dụng TOPIK Campus.",
+    "privacyTitle": "Quyền riêng tư",
+    "privacyDescription": "Cách TOPIK Campus xử lý thông tin cá nhân.",
+    "disclaimerTitle": "Tuyên bố",
+    "disclaimerDescription": "TOPIK Campus không liên kết với cơ quan tổ chức TOPIK chính thức."
+  },
+  "Nav": {
+    "home": "Trang chủ",
+    "topik": "TOPIK",
+    "practice": "Luyện đề",
+    "writing": "Viết",
+    "community": "Cộng đồng",
+    "about": "Giới thiệu",
+    "language": "Ngôn ngữ"
+  },
+  "Footer": {
+    "tagline": "Cộng đồng học tập toàn cầu cho người học TOPIK.",
+    "disclaimer": "TOPIK Campus is an independent learning platform and is not affiliated with, endorsed by, or connected to the official TOPIK administering organization.",
+    "disclaimerKo": "TOPIK Campus는 공식 TOPIK 운영기관과 무관한 독립 학습 플랫폼입니다.",
+    "terms": "Điều khoản",
+    "privacy": "Riêng tư",
+    "disclaimerLink": "Tuyên bố",
+    "copyright": "© {year} TOPIK Campus"
+  },
+  "Home": {
+    "eyebrow": "Cộng đồng học TOPIK độc lập",
+    "slogan": "Learn. Practice. Pass Together.",
+    "lead": "Cộng đồng toàn cầu cho người chuẩn bị TOPIK I và TOPIK II — dù bạn sống ở đâu.",
+    "primaryCta": "Xem cấp độ TOPIK",
+    "secondaryCta": "Xem cộng đồng",
+    "featuresTitle": "Bạn có thể làm gì tại đây",
+    "featuresLead": "Luyện tập, nhận góp ý và học cùng người khác. Công cụ cốt lõi sẽ mở dần.",
+    "comingSoon": "Sắp ra mắt"
+  },
+  "Features": {
+    "practice": {
+      "title": "Luyện đề",
+      "body": "Làm các câu nghe, đọc và viết theo dạng TOPIK."
+    },
+    "writing": {
+      "title": "Phản hồi viết bằng AI",
+      "body": "Nộp bài luận và nhận góp ý về điểm, bố cục và ngôn ngữ."
+    },
+    "progress": {
+      "title": "Theo dõi tiến độ",
+      "body": "Xem bài đã xong, phần cần ôn và cấp độ đang thay đổi."
+    },
+    "questions": {
+      "title": "Hỏi đáp",
+      "body": "Hỏi ngữ pháp, từ vựng hoặc chiến lược thi. Một luồng, mọi ngôn ngữ."
+    },
+    "study": {
+      "title": "Nhóm học",
+      "body": "Tìm bạn luyện nói hoặc câu lạc bộ thi thử hàng tuần."
+    },
+    "reviews": {
+      "title": "Cảm nhận thi",
+      "body": "Đọc trải nghiệm ngày thi gần đây, rồi chia sẻ của bạn."
+    }
+  },
+  "About": {
+    "title": "Về TOPIK Campus",
+    "lead": "Nơi học, luyện và đỗ TOPIK cùng nhau — không phải cơ quan thi chính thức.",
+    "body1": "TOPIK Campus giúp người học quốc tế ôn TOPIK I và TOPIK II bằng luyện tập, phản hồi và cộng đồng.",
+    "body2": "Chúng tôi không phải NIIED và không tổ chức kỳ thi chính thức. Nội dung, điểm số và nhận xét AI chỉ là hỗ trợ học tập.",
+    "body3": "Cộng đồng là một phòng chung. Đổi ngôn ngữ ở góc trên bên phải để đọc cùng bài viết bằng tiếng Anh, Hàn, Việt, Indonesia hoặc Trung."
+  },
+  "Topik": {
+    "title": "TOPIK I và TOPIK II",
+    "lead": "Chọn kỳ thi phù hợp trình độ tiếng Hàn hiện tại. Bảng này chỉ là tổng quan học tập, không phải quy định chính thức.",
+    "note": "Luôn xác nhận lịch, lệ phí và hình thức trên trang TOPIK chính thức. TOPIK Campus không đăng ký thí sinh hay cấp chứng chỉ."
+  },
+  "Hub": {
+    "home": "Trang chủ",
+    "comingSoon": "Khu vực này đang được chuẩn bị",
+    "comingSoonBody": "Giao diện đã sẵn sàng để chuyển ngôn ngữ và trang. Công cụ học và bài viết sẽ dùng cùng URL khi mở.",
+    "backHome": "Về trang chủ"
+  },
+  "Community": {
+    "title": "Một cộng đồng, nhiều ngôn ngữ",
+    "lead": "Câu hỏi, nhóm học và cảm nhận thi nằm trong một cộng đồng. Ngôn ngữ chỉ đổi cách hiển thị bài viết.",
+    "questions": "Câu hỏi",
+    "studyGroups": "Nhóm học",
+    "reviews": "Cảm nhận thi",
+    "empty": "Chưa có bài. Các chủ đề đầu tiên sẽ hiện ở đây bằng mọi ngôn ngữ sau khi ra mắt."
+  },
+  "WritingPreview": {
+    "title": "Xem trước bài viết",
+    "lead": "Dán một bài viết TOPIK ngắn. Chấm AI đầy đủ chưa mở — chỉ kiểm tra luồng nhập liệu.",
+    "placeholder": "Viết hoặc dán bài tiếng Hàn tại đây.",
+    "submit": "Yêu cầu góp ý",
+    "required": "Vui lòng nhập nội dung.",
+    "tooShort": "Viết ít nhất 20 ký tự.",
+    "success": "Đã lưu trên thiết bị này. Phản hồi AI sẽ chạy tại đây khi tính năng mở."
+  },
+  "Legal": {
+    "termsTitle": "Điều khoản sử dụng",
+    "termsBody": "TOPIK Campus dùng để học ngôn ngữ. Điểm luyện tập, nhận xét AI và bài cộng đồng không phải kết quả TOPIK chính thức. Không sao chép đề thi chính thức. Bạn chịu trách nhiệm nội dung mình đăng.",
+    "privacyTitle": "Chính sách quyền riêng tư",
+    "privacyBody": "Chúng tôi chỉ thu thập thông tin cần để chạy tài khoản, tiến độ và cộng đồng. Chi tiết sẽ được bổ sung trước khi mở đăng nhập.",
+    "disclaimerTitle": "Tuyên bố miễn trừ",
+    "disclaimerBody": "TOPIK Campus là nền tảng học tập độc lập, không liên kết với cơ quan tổ chức TOPIK chính thức. Phản hồi AI không phải điểm chính thức."
+  }
+}

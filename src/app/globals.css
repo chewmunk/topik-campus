@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #f4efe6;
+  --paper-2: #ebe4d6;
+  --ink: #162033;
+  --ink-soft: #3d4a5c;
+  --navy: #13294b;
+  --navy-deep: #0c1c33;
+  --accent: #c45c26;
+  --accent-soft: #f3d5c4;
+  --line: #d9d0c2;
+  --ok: #2c6e63;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-2: var(--paper-2);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-navy: var(--navy);
+  --color-navy-deep: var(--navy-deep);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-line: var(--line);
+  --color-ok: var(--ok);
+  --font-sans: var(--font-figtree);
+  --font-display: var(--font-fraunces);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-figtree), "Apple SD Gothic Neo", "Noto Sans KR",
+    "PingFang SC", "Noto Sans SC", system-ui, sans-serif;
+}
+
+::selection {
+  background: var(--accent-soft);
+  color: var(--navy-deep);
+}

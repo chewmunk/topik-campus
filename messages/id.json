@@ -1,0 +1,131 @@
+{
+  "Metadata": {
+    "homeTitle": "TOPIK Campus — Learn, Practice and Pass TOPIK",
+    "homeDescription": "Latihan soal, tes uji, umpan balik menulis AI, dan komunitas belajar global untuk TOPIK.",
+    "aboutTitle": "Tentang",
+    "aboutDescription": "TOPIK Campus adalah komunitas belajar independen bagi yang mempersiapkan TOPIK I dan TOPIK II.",
+    "topikTitle": "TOPIK I dan II",
+    "topikDescription": "Pahami perbedaan TOPIK I dan TOPIK II, lalu pilih jalur belajar sesuai tingkat.",
+    "practiceTitle": "Latihan soal",
+    "practiceDescription": "Latihan menyimak, membaca, dan menulis gaya TOPIK. Bank soal segera hadir.",
+    "mockTitle": "Tes uji",
+    "mockDescription": "Tes uji TOPIK berwaktu dengan penilaian. Fitur ini segera hadir.",
+    "writingTitle": "Umpan balik menulis AI",
+    "writingDescription": "Kirim jawaban menulis TOPIK dan dapat umpan balik AI. Saat ini hanya pratinjau alur.",
+    "progressTitle": "Progres",
+    "progressDescription": "Lacak streak, tingkat, dan latihan selesai. Progres masuk akun segera hadir.",
+    "communityTitle": "Komunitas",
+    "communityDescription": "Satu komunitas untuk tanya jawab, grup belajar, dan ulasan ujian — ditampilkan dalam bahasa Anda.",
+    "questionsTitle": "Pertanyaan",
+    "questionsDescription": "Tanya dan jawab soal TOPIK bersama pelajar di seluruh dunia.",
+    "studyTitle": "Grup belajar",
+    "studyDescription": "Cari atau buat grup belajar TOPIK. Alat rekrutmen segera dibuka.",
+    "reviewsTitle": "Ulasan ujian",
+    "reviewsDescription": "Bagikan rasanya hari ujian dan belajar dari peserta lain.",
+    "blogTitle": "Panduan",
+    "blogDescription": "Panduan dan tips belajar TOPIK. Artikel pertama segera hadir.",
+    "termsTitle": "Ketentuan",
+    "termsDescription": "Ketentuan penggunaan TOPIK Campus.",
+    "privacyTitle": "Privasi",
+    "privacyDescription": "Cara TOPIK Campus menangani data pribadi.",
+    "disclaimerTitle": "Penafian",
+    "disclaimerDescription": "TOPIK Campus tidak terafiliasi dengan lembaga resmi penyelenggara TOPIK."
+  },
+  "Nav": {
+    "home": "Beranda",
+    "topik": "TOPIK",
+    "practice": "Latihan",
+    "writing": "Menulis",
+    "community": "Komunitas",
+    "about": "Tentang",
+    "language": "Bahasa"
+  },
+  "Footer": {
+    "tagline": "Komunitas belajar global untuk pelajar TOPIK.",
+    "disclaimer": "TOPIK Campus is an independent learning platform and is not affiliated with, endorsed by, or connected to the official TOPIK administering organization.",
+    "disclaimerKo": "TOPIK Campus는 공식 TOPIK 운영기관과 무관한 독립 학습 플랫폼입니다.",
+    "terms": "Ketentuan",
+    "privacy": "Privasi",
+    "disclaimerLink": "Penafian",
+    "copyright": "© {year} TOPIK Campus"
+  },
+  "Home": {
+    "eyebrow": "Komunitas belajar TOPIK independen",
+    "slogan": "Learn. Practice. Pass Together.",
+    "lead": "Komunitas global bagi pelajar TOPIK I dan TOPIK II — di mana pun Anda tinggal.",
+    "primaryCta": "Lihat tingkat TOPIK",
+    "secondaryCta": "Lihat komunitas",
+    "featuresTitle": "Yang bisa Anda lakukan di sini",
+    "featuresLead": "Latihan, umpan balik, dan belajar bersama. Alat inti dibuka bertahap.",
+    "comingSoon": "Segera hadir"
+  },
+  "Features": {
+    "practice": {
+      "title": "Latihan soal",
+      "body": "Kerjakan butir menyimak, membaca, dan menulis bergaya TOPIK."
+    },
+    "writing": {
+      "title": "Umpan balik menulis AI",
+      "body": "Kirim esai dan dapat catatan tentang rentang skor, struktur, dan bahasa."
+    },
+    "progress": {
+      "title": "Pelacakan progres",
+      "body": "Lihat yang selesai, yang perlu diulang, dan pergerakan tingkat Anda."
+    },
+    "questions": {
+      "title": "Tanya jawab",
+      "body": "Tanya tata bahasa, kosakata, atau strategi ujian. Satu utas, semua bahasa."
+    },
+    "study": {
+      "title": "Grup belajar",
+      "body": "Cari partner berbicara atau klub tes uji mingguan."
+    },
+    "reviews": {
+      "title": "Ulasan ujian",
+      "body": "Baca kesan hari ujian terbaru, lalu bagikan milik Anda."
+    }
+  },
+  "About": {
+    "title": "Tentang TOPIK Campus",
+    "lead": "Tempat belajar, berlatih, dan lulus TOPIK bersama — bukan lembaga ujian resmi.",
+    "body1": "TOPIK Campus membantu pelajar internasional mempersiapkan TOPIK I dan TOPIK II dengan latihan, umpan balik, dan komunitas.",
+    "body2": "Kami bukan NIIED dan tidak menyelenggarakan ujian resmi. Konten, skor, dan komentar AI hanya alat bantu belajar.",
+    "body3": "Komunitas adalah satu ruang global. Ganti bahasa di kanan atas untuk membaca pos yang sama dalam bahasa Inggris, Korea, Vietnam, Indonesia, atau Tionghoa."
+  },
+  "Topik": {
+    "title": "TOPIK I dan TOPIK II",
+    "lead": "Pilih ujian yang sesuai tingkat bahasa Korea Anda. Tabel ini ringkasan belajar, bukan spesifikasi resmi.",
+    "note": "Selalu cek tanggal, biaya, dan format di situs TOPIK resmi. TOPIK Campus tidak mendaftarkan peserta atau menerbitkan sertifikat."
+  },
+  "Hub": {
+    "home": "Beranda",
+    "comingSoon": "Area ini sedang disiapkan",
+    "comingSoonBody": "Tata letak siap agar Anda bisa pindah bahasa dan halaman. Alat belajar dan pos komunitas akan memakai URL yang sama saat dibuka.",
+    "backHome": "Kembali ke beranda"
+  },
+  "Community": {
+    "title": "Satu komunitas, banyak bahasa",
+    "lead": "Pertanyaan, grup belajar, dan ulasan ujian ada di satu komunitas. Preferensi bahasa hanya mengubah tampilan pos.",
+    "questions": "Pertanyaan",
+    "studyGroups": "Grup belajar",
+    "reviews": "Ulasan ujian",
+    "empty": "Belum ada pos. Utas pertama akan muncul di sini dalam setiap bahasa setelah peluncuran."
+  },
+  "WritingPreview": {
+    "title": "Pratinjau menulis",
+    "lead": "Tempel jawaban menulis TOPIK singkat. Penilaian AI penuh belum aktif — ini hanya alur formulir.",
+    "placeholder": "Tulis atau tempel esai bahasa Korea di sini.",
+    "submit": "Minta umpan balik",
+    "required": "Silakan masukkan teks.",
+    "tooShort": "Tulis minimal 20 karakter.",
+    "success": "Tersimpan di perangkat ini. Umpan balik AI akan berjalan di sini saat fitur dibuka."
+  },
+  "Legal": {
+    "termsTitle": "Ketentuan penggunaan",
+    "termsBody": "TOPIK Campus untuk belajar bahasa. Skor latihan, komentar AI, dan pos komunitas bukan hasil TOPIK resmi. Jangan menyalin naskah ujian resmi. Anda bertanggung jawab atas konten yang dipublikasikan.",
+    "privacyTitle": "Kebijakan privasi",
+    "privacyBody": "Kami hanya mengumpulkan data yang diperlukan untuk akun, progres, dan komunitas. Detail akan dilengkapi sebelum fitur masuk akun diluncurkan.",
+    "disclaimerTitle": "Penafian",
+    "disclaimerBody": "TOPIK Campus adalah platform belajar independen dan tidak terafiliasi dengan lembaga resmi penyelenggara TOPIK. Umpan balik AI bukan skor resmi."
+  }
+}

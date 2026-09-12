@@ -1,0 +1,131 @@
+{
+  "Metadata": {
+    "homeTitle": "TOPIK Campus — Learn, Practice and Pass TOPIK",
+    "homeDescription": "Prepare for TOPIK with practice questions, mock tests, AI writing feedback and a global learner community.",
+    "aboutTitle": "About",
+    "aboutDescription": "TOPIK Campus is an independent global community for people preparing for TOPIK I and TOPIK II.",
+    "topikTitle": "TOPIK I and II",
+    "topikDescription": "Understand the difference between TOPIK I and TOPIK II, then choose a study path that fits your level.",
+    "practiceTitle": "Practice questions",
+    "practiceDescription": "Practice TOPIK listening, reading and writing questions. Question sets are coming soon.",
+    "mockTitle": "Mock tests",
+    "mockDescription": "Timed TOPIK mock tests with scoring. This feature is coming soon.",
+    "writingTitle": "AI writing feedback",
+    "writingDescription": "Submit a TOPIK writing response and get AI feedback. Preview the flow before the full feature launches.",
+    "progressTitle": "Progress",
+    "progressDescription": "Track streaks, levels and completed practice. Sign-in progress tracking is coming soon.",
+    "communityTitle": "Community",
+    "communityDescription": "One global community for questions, study groups and exam reviews — shown in your language.",
+    "questionsTitle": "Questions",
+    "questionsDescription": "Ask and answer TOPIK questions with learners around the world.",
+    "studyTitle": "Study groups",
+    "studyDescription": "Find or start a TOPIK study group. Recruitment tools are coming soon.",
+    "reviewsTitle": "Exam reviews",
+    "reviewsDescription": "Share what the test felt like and learn from other test takers.",
+    "blogTitle": "Guides",
+    "blogDescription": "Study guides and exam tips for TOPIK learners. First articles are coming soon.",
+    "termsTitle": "Terms of use",
+    "termsDescription": "Terms of use for TOPIK Campus.",
+    "privacyTitle": "Privacy policy",
+    "privacyDescription": "How TOPIK Campus handles personal information.",
+    "disclaimerTitle": "Disclaimer",
+    "disclaimerDescription": "TOPIK Campus is not affiliated with the official TOPIK administering organization."
+  },
+  "Nav": {
+    "home": "Home",
+    "topik": "TOPIK",
+    "practice": "Practice",
+    "writing": "Writing",
+    "community": "Community",
+    "about": "About",
+    "language": "Language"
+  },
+  "Footer": {
+    "tagline": "The global learning community for TOPIK learners.",
+    "disclaimer": "TOPIK Campus is an independent learning platform and is not affiliated with, endorsed by, or connected to the official TOPIK administering organization.",
+    "disclaimerKo": "TOPIK Campus는 공식 TOPIK 운영기관과 무관한 독립 학습 플랫폼입니다.",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "disclaimerLink": "Disclaimer",
+    "copyright": "© {year} TOPIK Campus"
+  },
+  "Home": {
+    "eyebrow": "Independent TOPIK learning community",
+    "slogan": "Learn. Practice. Pass Together.",
+    "lead": "The global learning community for TOPIK learners preparing for TOPIK I and TOPIK II — wherever you live.",
+    "primaryCta": "Explore TOPIK levels",
+    "secondaryCta": "See the community",
+    "featuresTitle": "What you can do here",
+    "featuresLead": "Practice, get feedback, and study with other learners. Core tools are opening in stages.",
+    "comingSoon": "Coming soon"
+  },
+  "Features": {
+    "practice": {
+      "title": "Practice questions",
+      "body": "Work through TOPIK-style listening, reading and writing items."
+    },
+    "writing": {
+      "title": "AI writing feedback",
+      "body": "Submit an essay and get notes on score range, structure and language."
+    },
+    "progress": {
+      "title": "Progress tracking",
+      "body": "See what you finished, what to review, and how your level is moving."
+    },
+    "questions": {
+      "title": "Questions and answers",
+      "body": "Ask about grammar, vocabulary or test strategy. One thread, every language."
+    },
+    "study": {
+      "title": "Study groups",
+      "body": "Find partners for speaking practice or a weekly mock-test club."
+    },
+    "reviews": {
+      "title": "Exam reviews",
+      "body": "Read what recent test days felt like, then share your own."
+    }
+  },
+  "About": {
+    "title": "About TOPIK Campus",
+    "lead": "A place to learn, practice and pass TOPIK together — not an official exam body.",
+    "body1": "TOPIK Campus helps international learners prepare for TOPIK I and TOPIK II with practice, feedback and a shared community.",
+    "body2": "We are not the National Institute for International Education, and we do not administer the official test. Course content, scores and AI comments are study aids only.",
+    "body3": "The community is one global room. Switch language in the top right to read the same posts in English, Korean, Vietnamese, Indonesian or Chinese."
+  },
+  "Topik": {
+    "title": "TOPIK I and TOPIK II",
+    "lead": "Choose the exam that matches your current Korean level. This table is a study overview, not an official specification.",
+    "note": "Always confirm dates, fees and formats on the official TOPIK website. TOPIK Campus does not register candidates or issue certificates."
+  },
+  "Hub": {
+    "home": "Home",
+    "comingSoon": "This area is in progress",
+    "comingSoonBody": "The layout is ready so you can move between languages and pages. Learning tools and community posts will use the same URLs when they open.",
+    "backHome": "Back to home"
+  },
+  "Community": {
+    "title": "One community, many languages",
+    "lead": "Questions, study groups and exam reviews live in a single community. Your language preference only changes how posts are shown.",
+    "questions": "Questions",
+    "studyGroups": "Study groups",
+    "reviews": "Exam reviews",
+    "empty": "No posts yet. The first threads will appear here in every language after launch."
+  },
+  "WritingPreview": {
+    "title": "Try a writing preview",
+    "lead": "Paste a short TOPIK writing response. Full AI scoring is not live yet — this checks the form flow only.",
+    "placeholder": "Write or paste your Korean essay here.",
+    "submit": "Request feedback",
+    "required": "Please enter some text.",
+    "tooShort": "Write at least 20 characters.",
+    "success": "Saved locally. AI writing feedback will run here when the feature opens."
+  },
+  "Legal": {
+    "termsTitle": "Terms of use",
+    "termsBody": "TOPIK Campus is provided for language study. Practice scores, AI comments and community posts are not official TOPIK results. Do not copy official exam papers. You are responsible for the content you publish.",
+    "privacyTitle": "Privacy policy",
+    "privacyBody": "We aim to collect only what is needed to run accounts, progress and community features. Privacy details will be expanded before sign-in launches. Contact us if you need a data request.",
+    "disclaimerTitle": "Disclaimer",
+    "disclaimerBody": "TOPIK Campus is an independent learning platform and is not affiliated with, endorsed by, or connected to the official TOPIK administering organization. TOPIK is a trademark of its respective owner. AI feedback is not an official score."
+  }
+}

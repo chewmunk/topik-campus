@@ -1,0 +1,131 @@
+{
+  "Metadata": {
+    "homeTitle": "TOPIK Campus — Learn, Practice and Pass TOPIK",
+    "homeDescription": "通过练习题、模拟考试、AI 写作反馈和全球学习者社区备考 TOPIK。",
+    "aboutTitle": "关于",
+    "aboutDescription": "TOPIK Campus 是面向 TOPIK I、II 考生的独立学习社区。",
+    "topikTitle": "TOPIK I 与 II",
+    "topikDescription": "了解 TOPIK I 与 TOPIK II 的区别，并选择适合自己水平的学习路径。",
+    "practiceTitle": "练习题",
+    "practiceDescription": "练习 TOPIK 听力、阅读和写作题型。题库即将开放。",
+    "mockTitle": "模拟考试",
+    "mockDescription": "限时 TOPIK 模拟考试与评分。功能即将上线。",
+    "writingTitle": "AI 写作反馈",
+    "writingDescription": "提交 TOPIK 写作并获得 AI 反馈。目前仅可预览流程。",
+    "progressTitle": "学习进度",
+    "progressDescription": "跟踪连续学习、级别与已完成练习。登录进度即将上线。",
+    "communityTitle": "社区",
+    "communityDescription": "问答、学习小组和考试心得同属一个社区，按你的语言显示。",
+    "questionsTitle": "问答",
+    "questionsDescription": "与全球学习者一起提问和回答 TOPIK 问题。",
+    "studyTitle": "学习小组",
+    "studyDescription": "寻找或发起 TOPIK 学习小组。招募工具即将开放。",
+    "reviewsTitle": "考试心得",
+    "reviewsDescription": "分享考试当天的感受，并向其他考生学习。",
+    "blogTitle": "指南",
+    "blogDescription": "TOPIK 学习指南与备考提示。首批文章即将发布。",
+    "termsTitle": "使用条款",
+    "termsDescription": "TOPIK Campus 使用条款。",
+    "privacyTitle": "隐私政策",
+    "privacyDescription": "TOPIK Campus 如何处理个人信息。",
+    "disclaimerTitle": "免责声明",
+    "disclaimerDescription": "TOPIK Campus 与官方 TOPIK 主办机构无关。"
+  },
+  "Nav": {
+    "home": "首页",
+    "topik": "TOPIK",
+    "practice": "练习",
+    "writing": "写作",
+    "community": "社区",
+    "about": "关于",
+    "language": "语言"
+  },
+  "Footer": {
+    "tagline": "面向 TOPIK 学习者的全球学习社区。",
+    "disclaimer": "TOPIK Campus is an independent learning platform and is not affiliated with, endorsed by, or connected to the official TOPIK administering organization.",
+    "disclaimerKo": "TOPIK Campus는 공식 TOPIK 운영기관과 무관한 독립 학습 플랫폼입니다.",
+    "terms": "条款",
+    "privacy": "隐私",
+    "disclaimerLink": "声明",
+    "copyright": "© {year} TOPIK Campus"
+  },
+  "Home": {
+    "eyebrow": "独立的 TOPIK 学习社区",
+    "slogan": "Learn. Practice. Pass Together.",
+    "lead": "无论你在哪里，这里都是备考 TOPIK I 与 TOPIK II 的全球学习者社区。",
+    "primaryCta": "查看 TOPIK 级别",
+    "secondaryCta": "查看社区",
+    "featuresTitle": "你可以在这里做什么",
+    "featuresLead": "练习、获得反馈，并与其他学习者一起备考。核心工具将分阶段开放。",
+    "comingSoon": "即将推出"
+  },
+  "Features": {
+    "practice": {
+      "title": "练习题",
+      "body": "练习 TOPIK 风格的听力、阅读和写作题目。"
+    },
+    "writing": {
+      "title": "AI 写作反馈",
+      "body": "提交作文，获得分数区间、结构和语言方面的建议。"
+    },
+    "progress": {
+      "title": "进度跟踪",
+      "body": "查看已完成内容、待复习内容以及级别变化。"
+    },
+    "questions": {
+      "title": "问答",
+      "body": "询问语法、词汇或应试策略。同一帖子，多种语言。"
+    },
+    "study": {
+      "title": "学习小组",
+      "body": "寻找口语搭档或每周模拟考试小组。"
+    },
+    "reviews": {
+      "title": "考试心得",
+      "body": "阅读近期考试体验，并分享你自己的经历。"
+    }
+  },
+  "About": {
+    "title": "关于 TOPIK Campus",
+    "lead": "一起学习、练习并通过 TOPIK 的地方 —— 不是官方考试机构。",
+    "body1": "TOPIK Campus 通过练习、反馈和社区，帮助国际学习者备考 TOPIK I 与 TOPIK II。",
+    "body2": "我们不是国立国际教育院，也不主办正式考试。课程内容、分数和 AI 评语仅供学习参考。",
+    "body3": "社区是同一个全球空间。点击右上角切换语言，即可用英语、韩语、越南语、印尼语或中文阅读同一帖子。"
+  },
+  "Topik": {
+    "title": "TOPIK I 与 TOPIK II",
+    "lead": "选择符合当前韩语水平的考试。下表仅为学习概览，不是官方大纲。",
+    "note": "日期、费用和形式请务必在官方 TOPIK 网站确认。TOPIK Campus 不负责报名或颁发证书。"
+  },
+  "Hub": {
+    "home": "首页",
+    "comingSoon": "该区域正在准备中",
+    "comingSoonBody": "页面骨架已就绪，便于切换语言和栏目。学习工具与社区帖文上线后仍使用相同网址。",
+    "backHome": "返回首页"
+  },
+  "Community": {
+    "title": "一个社区，多种语言",
+    "lead": "问答、学习小组和考试心得属于同一个社区。语言偏好只改变帖文的显示方式。",
+    "questions": "问答",
+    "studyGroups": "学习小组",
+    "reviews": "考试心得",
+    "empty": "暂无帖文。上线后，第一批讨论将以各种语言出现在这里。"
+  },
+  "WritingPreview": {
+    "title": "写作预览",
+    "lead": "粘贴一段简短的 TOPIK 写作。完整 AI 评分尚未上线 —— 仅用于确认表单流程。",
+    "placeholder": "在此输入或粘贴韩语作文。",
+    "submit": "请求反馈",
+    "required": "请输入内容。",
+    "tooShort": "请至少写 20 个字符。",
+    "success": "已保存在本机。功能上线后，AI 写作反馈将在此运行。"
+  },
+  "Legal": {
+    "termsTitle": "使用条款",
+    "termsBody": "TOPIK Campus 仅供语言学习使用。练习分数、AI 评语和社区内容不是官方 TOPIK 成绩。请勿复制官方试卷。你需对发布的内容负责。",
+    "privacyTitle": "隐私政策",
+    "privacyBody": "我们只收集运行账户、进度和社区所需的信息。登录功能上线前会补充细则。如需数据请求，请与我们联系。",
+    "disclaimerTitle": "免责声明",
+    "disclaimerBody": "TOPIK Campus 是独立学习平台，与官方 TOPIK 主办机构无关、未获其背书或关联。AI 反馈不是官方分数。"
+  }
+}
