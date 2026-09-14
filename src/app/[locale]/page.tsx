@@ -27,6 +27,14 @@ export default async function HomePage({ params }: PageProps<"/[locale]">) {
     <div>
       <section className="border-b border-line bg-[linear-gradient(180deg,#13294b_0%,#1b3a63_100%)] text-paper">
         <div className="mx-auto max-w-6xl px-4 py-20 sm:px-6 sm:py-28">
+          <div className="mb-8 max-w-xl rounded-2xl border border-accent-soft/35 bg-navy-deep/55 px-4 py-3">
+            <p className="text-sm font-medium text-accent-soft">
+              {t("openNoticeLabel")}
+            </p>
+            <p className="mt-1 text-sm leading-6 text-paper/75">
+              {t("openNotice")}
+            </p>
+          </div>
           <p className="text-sm uppercase tracking-[0.2em] text-accent-soft">
             {t("eyebrow")}
           </p>

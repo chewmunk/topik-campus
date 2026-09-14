@@ -57,7 +57,9 @@
     "secondaryCta": "커뮤니티 보기",
     "featuresTitle": "여기에서 할 수 있는 일",
     "featuresLead": "문제 풀이, 피드백, 함께 공부하기. 핵심 도구는 단계적으로 열립니다.",
-    "comingSoon": "곧 공개"
+    "comingSoon": "곧 공개",
+    "openNoticeLabel": "2026년 10월 오픈",
+    "openNotice": "지금은 준비 중인 사이트입니다. 학습 도구와 커뮤니티는 2026년 10월에 열립니다."
   },
   "Features": {
     "practice": {

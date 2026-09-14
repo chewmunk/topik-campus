@@ -57,7 +57,9 @@
     "secondaryCta": "See the community",
     "featuresTitle": "What you can do here",
     "featuresLead": "Practice, get feedback, and study with other learners. Core tools are opening in stages.",
-    "comingSoon": "Coming soon"
+    "comingSoon": "Coming soon",
+    "openNoticeLabel": "Opening October 2026",
+    "openNotice": "This site is still being built. Learning tools and the community will open in October 2026."
   },
   "Features": {
     "practice": {

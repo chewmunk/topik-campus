@@ -7,6 +7,7 @@ import { getLocaleParam } from "@/lib/locale";
 import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
 import { QueryProvider } from "@/components/providers/QueryProvider";
+import { GoogleAnalytics } from "@/components/seo/GoogleAnalytics";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { organizationJsonLd, websiteJsonLd } from "@/lib/json-ld";
 
@@ -54,6 +55,7 @@ export default async function LocaleLayout({
           </QueryProvider>
         </NextIntlClientProvider>
       </body>
+      <GoogleAnalytics />
     </html>
   );
 }
